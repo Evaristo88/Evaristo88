@@ -110,19 +110,48 @@ My Awesome GitHub Profile README
 
 ## 💼 Featured Projects
 
-> 🚧 Coming soon! Check back for my latest projects.
+### 🛡️ [Network Port Scanner](https://github.com/Evaristo88/network_port_scanner)
+**Description**: A network security tool for scanning and identifying open ports on target systems
 
-<!-- You can add your projects like this:
-### 🌟 [Project Name](link-to-repo)
-**Description**: Brief description of your awesome project
-
-**Tech Stack**: React • Node.js • MongoDB
+**Tech Stack**: Python • HTML
 
 **Features**:
-- ✨ Feature 1
-- ⚡ Feature 2
-- 🚀 Feature 3
--->
+- ✨ Fast and efficient port scanning
+- 🔍 Service detection and enumeration
+- 📊 Detailed scan reports
+- 🎯 Multi-threaded scanning capabilities
+
+---
+
+### 🔐 [Password Strength Checker](https://github.com/Evaristo88/password_strength_checker)
+**Description**: Advanced Python tool that evaluates password security using entropy calculation, pattern detection, and character variety analysis
+
+**Tech Stack**: Python • Flask • Regex
+
+**Features**:
+- ✨ Entropy estimation in bits with scoring (0-100)
+- ⚡ Pattern detection (repeats, sequences, keyboard walks)
+- 🚀 Common password blacklist detection
+- 🌐 Flask web interface for real-time testing
+- 📝 JSON output mode for API integrations
+- ⚙️ Configurable scoring tiers and custom blacklists
+
+---
+
+### 📅 [WhatsApp Calendar Agent](https://github.com/Evaristo88/Whatsapp-Calendar-Agent)
+**Description**: An intelligent automation agent that integrates WhatsApp messaging with calendar management for seamless scheduling
+
+**Tech Stack**: Python • Docker • Shell
+
+**Features**:
+- ✨ WhatsApp messaging integration
+- 📆 Automated calendar event management
+- 🤖 Smart agent-based scheduling
+- 🐳 Docker containerization for easy deployment
+- ⚡ MIT licensed open-source project
+
+> 🚧 More Coming soon! Check back for my latest projects.
+
 
 ## 📫 Connect With Me
 
