@@ -139,7 +139,7 @@ My Awesome GitHub Profile README
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=Evaristo88hello&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Evaristo88&label=Profile%20views&color=0e75b6&style=flat)
   
 </div>
 
@@ -151,6 +151,6 @@ My Awesome GitHub Profile README
 
 <div align="center">
   
-⭐️ From [Evaristo88hello](https://github.com/Evaristo88hello)
+⭐️ From [Evaristo88](https://github.com/Evaristo88)
   
 </div>
