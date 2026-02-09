@@ -180,13 +180,13 @@ My Awesome GitHub Profile README
 <a href="https://github.com/Evaristo88">
   <img src="https://img.shields.io/badge/GitHub-Evaristo88-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://github.com/Evaristo88hello">
+<a href="https://github.com/Evaristo88">
   <img src="https://img.shields.io/badge/Profile-View%20README-2596CD?style=for-the-badge&logo=github&logoColor=white" alt="Profile"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Evaristo88hello&label=Profile+Views&color=2596CD&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Evaristo88&label=Profile+Views&color=2596CD&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/Evaristo88?label=Followers&style=for-the-badge&color=1679A7&logo=github" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/Evaristo88?label=Stars&style=for-the-badge&color=4682B4&logo=github" alt="Stars"/>
 
