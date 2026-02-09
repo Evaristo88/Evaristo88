@@ -100,7 +100,13 @@ My Awesome GitHub Profile README
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Evaristo88/Evaristo-Ndowera/blob/output/github-snake.svg)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Evaristo88/Evaristo-Ndowera/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Evaristo88/Evaristo-Ndowera/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Evaristo88/Evaristo-Ndowera/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ## 💼 Featured Projects
 
