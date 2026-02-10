@@ -72,12 +72,13 @@ My Awesome GitHub Profile README
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Evaristo88&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evaristo88&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Evaristo88&theme=radical" alt="GitHub Stats" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evaristo88&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Evaristo88&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Evaristo88&theme=radical&utcOffset=3" alt="Commit Time" />
 </div>
 
 ## 🏆 GitHub Trophies
