@@ -92,9 +92,9 @@ My Awesome GitHub Profile README
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Evaristo88/REPO/pull/1) in [Evaristo88/REPO](https://github.com/Evaristo88/REPO)
-2. 💪 Opened PR [#1](https://github.com/Evaristo88/REPO/pull/1) in [Evaristo88/REPO](https://github.com/Evaristo88/REPO)
-3. 🚀 Published release [v0.1.0](https://github.com/Evaristo88/REPO/releases/tag/v0.1.0) in [Evaristo88/REPO](https://github.com/Evaristo88/REPO)
+1. 🎉 Merged PR [#1](https://github.com/Evaristo88/Scripting/pull/1) in [Evaristo88/Scripting](https://github.com/Evaristo88/Scripting)
+2. 💪 Opened PR [#1](https://github.com/Evaristo88/Scripting/pull/1) in [Evaristo88/Scripting](https://github.com/Evaristo88/Scripting)
+3. 🚀 Published release [v0.1.0](https://github.com/Evaristo88/Scripting/releases/tag/v0.1.0) in [Evaristo88/Scripting](https://github.com/Evaristo88/Scripting)
 <!--END_SECTION:activity-->
 
 ## 📈 Contribution Graph
